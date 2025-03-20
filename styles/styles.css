@@ -1,0 +1,48 @@
+/* CSS Variables */
+:root {
+
+    /* ----- Spacing system ------ */
+    --space-1400: 112px;
+    --space-1000: 80px;
+    --space-900: 72px;
+    --space-800: 64px;
+    --space-700: 56px;
+    --space-500: 40px;
+    --space-400: 32px;
+    --space-300: 24px;
+    --space-200: 16px;
+    --space-100: 8px;
+    --space-50: 4px;
+
+    /* ----- Colors ----- */
+    /* Cyan */
+    --cyan-600: #4D96A9;
+    --cyan-300: #8FE3F9;
+
+    /* Purple */
+    --purple-600: #855FB1;
+    --purple-300: #D9B8FF;
+
+    /* Slate */
+    --slate-900: #28283D;
+    --slate-600: #87879D;
+    --slate-300: #D1D1DF;
+
+    /* White */
+    --white: #FAFAFA;
+
+    /* ----- Fonts ----- */
+    /* Sizes*/
+    --fs-preset-1: 64px;
+    --fs-preset-2: 40px;
+    --fs-preset-3: 16px;
+    --fs-preset-4: 18px;
+    --fs-preset-5: 16px;
+
+    /* Line height */
+    --lh-preset-1: 1.1;
+
+    /* letter spacing */
+    --ls-preset-1: 0px;
+    --ls-preset-2: 4px;
+}
